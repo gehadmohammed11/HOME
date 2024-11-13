@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #263d75, #adcee9);
+}
+.bbody{
+    margin: 50px;
+    padding: 30px 20px;
+    background-color: #ffffff;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    font-family: Roboto;
+    margin: 0px 6px;
+}
+nav a:hover{
+    color: #263d75
+}
+.nav3 a{
+    background-color: black;
+    color: #ffffff;
+    padding: 7px;
+    font-size: 12px;
+    border-radius: 7px;
+}
+.background1{
+    margin: 50px 10px;
+    background-image:linear-gradient(to right, #263d75, #adcee9);
+    border-radius: 20px;
+    padding: 30px;
+    width: 500px; 
+}
+.background1 p{
+    font-family: Roboto;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container1{
+    margin-left: -10px;
+    margin-right: 20px;
+}
+.container2{
+    width: 400px;
+    justify-content: center;
+    text-align: center;
+}
+.container2 h3{
+    margin-top: 10px;
+    font-size: 29px;
+}
+.container2 p{
+    margin-top: 10px;
+    font-family: Roboto;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.container2 .link a{
+    background-color: #000;
+    margin-top: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 13px;
+}
+.container img{
+    width: 200px;
+    border-radius: 30px;
+}
+.container3 .gggg{
+   position: relative; 
+   top: 90px;
+   right: -70px;
+}
+.background2{
+   background: url(img\pexels-pixabay-276724.png);
+   background-image:linear-gradient(to right, #263d75, #adcee9);
+   padding: 50px;
+   margin: 100px;
+   border-radius: 40px;
+   margin-bottom: 0px;
+}
+.ssss{
+   width: 350px; 
+   color: #ffffff;
+}
+.ssss p{
+   margin-top : 20px;
+   font-family: Roboto;
+   font-size: 15px;
+   margin-bottom: 20px;
+}
+.btn{
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-family: Roboto;
+    width: 200px;
+    padding: 7px;
+    text-align: center;
+}
+.btn a{
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+
